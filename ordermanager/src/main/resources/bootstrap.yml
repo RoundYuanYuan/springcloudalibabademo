@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ordermanager
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.88.51:8848

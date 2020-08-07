@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.88.51:8848
+  application:
+    name: ordermanager
+server:
+  port: 8080
